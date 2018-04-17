@@ -1,1 +1,1 @@
-hot fx 2
+hot fx 4
