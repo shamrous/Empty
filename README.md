@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-New branch v1
-=======
+hot fx 4
+master
 
->>>>>>> refs/remotes/origin/master
